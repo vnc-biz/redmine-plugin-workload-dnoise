@@ -1,0 +1,5 @@
+redmine-plugin-workload-dnoise (0.0.1.2-precise0) precise; urgency=low
+
+  * Packaged for Ubuntu precise
+
+ -- Enrico Weigelt, metux IT service <weigelt@metux.de>  Wed, 03 Aug 2012 07:38:13 +0200
